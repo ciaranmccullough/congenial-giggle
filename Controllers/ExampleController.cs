@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace net_gatsby.Controllers
+namespace congenial_giggle.Controllers
 {
     [Route("api/[controller]")]
     public class ExampleController : Controller

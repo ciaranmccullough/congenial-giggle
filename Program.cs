@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace net_gatsby
+namespace dotnet_gatsby_oliver2
 {
     public class Program
     {

@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 
-namespace net_gatsby
+namespace dotnet_gatsby_oliver2
 {
     public class Startup
     {
